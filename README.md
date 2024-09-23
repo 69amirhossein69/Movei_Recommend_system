@@ -1,3 +1,9 @@
+![Project Banner](images/search bar.png)
+
+
+
+
+
 # Movei_Recommendation_system
 
 
