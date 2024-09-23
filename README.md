@@ -79,6 +79,8 @@ this project is a movie recommendation system that combines multiple algorithms 
 - `styles.css`: Stylesheet for the web interface.
 - `script.js`: JavaScript file handling user interactions and API calls.
 
+# UI
+![Alt text](images/Cinesearch.png)
 
 
 ## Model Details
