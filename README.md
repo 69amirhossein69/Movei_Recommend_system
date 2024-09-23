@@ -2,7 +2,7 @@
 
 
 ## Overview
-CineSearch is a sophisticated movie recommendation system that combines multiple algorithms to provide personalized movie suggestions. The system utilizes content-based filtering, collaborative filtering, neural collaborative filtering, and gradient boosting techniques to generate accurate and diverse recommendations.
+this project is a movie recommendation system that combines multiple algorithms to provide personalized movie suggestions. The system utilizes content-based filtering, collaborative filtering, neural collaborative filtering, and gradient boosting techniques to generate accurate and diverse recommendations.
 
 ## Features
 - **Hybrid Approach**: Combines multiple recommendation algorithms for improved accuracy and diversity.
