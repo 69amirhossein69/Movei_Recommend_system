@@ -1,5 +1,5 @@
 # Movei_Recommend_system
-# CineSearch: Hybrid Movie Recommendation System
+
 
 ## Overview
 CineSearch is a sophisticated movie recommendation system that combines multiple algorithms to provide personalized movie suggestions. The system utilizes content-based filtering, collaborative filtering, neural collaborative filtering, and gradient boosting techniques to generate accurate and diverse recommendations.
