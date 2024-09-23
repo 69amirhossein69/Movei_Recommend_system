@@ -78,7 +78,7 @@ CineSearch is a sophisticated movie recommendation system that combines multiple
 - `index.html`: Main page with search functionality and movie display.
 - `styles.css`: Stylesheet for the web interface.
 - `script.js`: JavaScript file handling user interactions and API calls.
-- ![Uploading Screenshot 2024-09-24 020805.png…]()
+
 
 
 ## Model Details
