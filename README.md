@@ -38,7 +38,7 @@ this project is a movie recommendation system that combines multiple algorithms 
 1. Clone the repository:
    ```
    git clone https://github.com/69amirhossein69/Movei_Recommend_system.git
-   cd cinesearch
+
    ```
 2. Install the required packages:
    ```
